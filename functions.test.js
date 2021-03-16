@@ -1,4 +1,4 @@
-/* const functions = require('./functions.js');
+const functions = require('./functions.js');
 
 
 
@@ -34,7 +34,7 @@ test('Admin should be in usernames', () => {
 	expect(usernames).toContain('admin')
 	// expect(usernames).to......
 });
- */
+
 
 
 const addOne = require("./add-one.js");
